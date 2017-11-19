@@ -306,19 +306,6 @@ int main() {
 						}
 					}
 
-
-
-     //        		if ((check_car_s > car_s) && (check_car_s - car_s < 30)) {
-     //        			safe_right_one = false;
-     //        			// std::cout << "Front car distance (right): " << check_car_s - car_s << std::endl;
-					// }
-
-					// else if ((check_car_s < car_s)) {
-					// 	if ((car_s - check_car_s < 5) || (check_speed > car_speed)) {
-					// 		safe_right_two = false;
-					// 		// std::cout << "Rear car distance (right): " << car_s - check_car_s << std::endl;
-					// 	}
-					// }
             	}
 
             }
